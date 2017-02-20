@@ -11,3 +11,5 @@ As for getting maps working, you're going to need to find all of the content the
 I made a program that can find the dependencies of an Obsidian Conflict map. I'll see if I can package that up next so people can use that. 
 
 Remember to copy the proper files from scripts/merchants and maps/cfg. If you don't, strange things might happen.
+
+There's a tools folder here that you probably don't need to worry about. It's almost entirely obsolete at this point.
